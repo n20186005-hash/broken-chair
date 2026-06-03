@@ -1,0 +1,64 @@
+import { setRequestLocale } from 'next-intl/server';
+import type { Metadata } from 'next';
+import Header from '@/components/Header';
+import Hero from '@/components/Hero';
+import Intro from '@/components/Intro';
+import BasicInfo from '@/components/BasicInfo';
+import HoursSection from '@/components/HoursSection';
+import TicketsSection from '@/components/TicketsSection';
+import TransportSection from '@/components/TransportSection';
+import Gallery from '@/components/Gallery';
+import Reviews from '@/components/Reviews';
+import MapEmbed from '@/components/MapEmbed';
+import FAQSection from '@/components/FAQSection';
+import Footer from '@/components/Footer';
+
+export async function generateMetadata({
+  params,
+}: {
+  params: Promise<{ locale: string }>;
+}): Promise<Metadata> {
+  const { locale } = await params;
+  const baseUrl = 'https://broken-chair-geneva.com';
+  return {
+    alternates: {
+      canonical: `${baseUrl}/${locale}`,
+      languages: {
+        'zh': `${baseUrl}/zh`,
+        'en': `${baseUrl}/en`,
+        'de': `${baseUrl}/de`,
+        'fr': `${baseUrl}/fr`,
+        'it': `${baseUrl}/it`,
+        'rm': `${baseUrl}/rm`,
+        'x-default': `${baseUrl}/en`,
+      },
+    },
+  };
+}
+
+export default async function HomePage({
+  params,
+}: {
+  params: Promise<{ locale: string }>;
+}) {
+  const { locale } = await params;
+  setRequestLocale(locale);
+
+  return (
+    <>
+      <Header />
+      <main>
+        <Hero />
+        <BasicInfo />
+        <HoursSection />
+        <TicketsSection />
+        <TransportSection />
+        <Gallery />
+        <Reviews />
+        <FAQSection />
+        <MapEmbed />
+      </main>
+      <Footer />
+    </>
+  );
+}
