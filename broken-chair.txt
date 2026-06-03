@@ -3,6 +3,28 @@ broken-chair
 给这个单景点买域名.com推荐
 
 
+1、页面信息有误修正
+
+你正在用（Next.js开发）
+为一个新景点【 Broken Chair 】构建静态/Next.js 单页指南网站。
+页面只需要支持中文和英文双语言
+
+Broken Chair
+4.5(9,193)
+旅游胜地
+1202 Geneva, 瑞士
+64FQ+4G 日内瓦瑞士
+https://maps.app.goo.gl/ox5EXQDdKs4Yc7Nb7
+
+2、相片名称有误
+
+
+
+3、友情链接 Handicap International 名称中文环境要改成中文
+
+
+4、交通指南
+完善交通信息具体怎么到这个景点
 
 
 

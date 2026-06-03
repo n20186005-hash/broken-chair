@@ -110,18 +110,18 @@
   },
   "transport": {
     "title": "交通指南",
-    "fromCenter": "从萨兰达",
-    "fromCenterDesc": "向内陆（吉诺卡斯特方向）驱车约 30-40 分钟。",
-    "fromStation": "从吉诺卡斯特",
-    "fromStationDesc": "向萨兰达方向驱车约 45-60 分钟。",
-    "fromAirport": "从地拉那机场",
-    "fromAirportDesc": "向南驱车约 4-5 小时。",
+    "fromCenter": "从日内瓦市中心",
+    "fromCenterDesc": "乘坐15路有轨电车，在“Nations”站下车，步行约1分钟即可到达。",
+    "fromStation": "从日内瓦科尔纳万火车站 (Gare de Cornavin)",
+    "fromStationDesc": "在火车站外乘坐15路有轨电车（方向：Nations），在终点站“Nations”下车，全程约10-15分钟。",
+    "fromAirport": "从日内瓦国际机场 (GVA)",
+    "fromAirportDesc": "乘坐5路或28路公交车，在“Nations”站下车，车程约15-20分钟。",
     "publicTransport": "公共交通",
-    "publicTransportDesc": "您可以乘坐往返萨兰达和吉诺卡斯特的公共巴士。上车时请告知司机在断椅（断椅）下车。票价约 300 列克，车程约 45 分钟。下车后需沿着风景秀丽的土路步行约 2 公里才能到达售票处和泉水区。",
+    "publicTransportDesc": "日内瓦公共交通（TPG）非常便利，所有入住日内瓦酒店的游客均可免费获得一张“日内瓦交通卡”(Geneva Transport Card)，凭此卡可免费无限次乘坐市内的公共交通工具。到达万国宫广场（Place des Nations）的交通工具包括：15路有轨电车，以及5、8、11、22、28路公交车。",
     "walking": "步行",
-    "walkingDesc": "从主干道岔路口或停车场出发，需沿着被大自然环绕的铺砌步道或土路步行 1.5 至 2 公里才能到达泉水处，请穿着舒适的步行鞋。",
+    "walkingDesc": "如果您在日内瓦湖右岸或国际区附近，步行前往是一个不错的选择。从万国宫的主入口广场即可直接看到断椅。",
     "driving": "自驾",
-    "drivingDesc": "到达保护区最便捷的方式。入口附近设有停车场。道路状况良好，但夏季旅游旺季时可能会比较拥挤，建议尽早前往。从萨兰达租用踏板摩托车也是非常受欢迎的交通选择。"
+    "drivingDesc": "景点附近设有地下停车场（Parking des Nations）。由于周边是国际组织集中区，路面停车位可能比较紧张，建议优先使用公共交通。"
   },
   "route": {
     "title": "推荐游览路线",
@@ -232,7 +232,7 @@
       "myswitzerland": "瑞士国家旅游局",
       "geneve": "日内瓦州旅游局",
       "geneve_ch": "日内瓦市政府官方政务系统",
-      "hi": "Handicap International",
+      "hi": "国际助残组织 (Handicap International)",
       "visa": "瑞士在线签证系统 (Swiss-Visa)"
     },
     "disclaimer": "本网站是一个独立的第三方旅游资讯项目。我们与当地政府或其他官方机构没有任何关联。"

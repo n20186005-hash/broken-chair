@@ -110,18 +110,18 @@
   },
   "transport": {
     "title": "How to Get Here",
-    "fromCenter": "From Saranda",
-    "fromCenterDesc": "About a 30-40 minute drive inland towards Gjirokastër.",
-    "fromStation": "From Gjirokastër",
-    "fromStationDesc": "About a 45-60 minute drive towards Saranda.",
-    "fromAirport": "From Tirana Airport",
-    "fromAirportDesc": "Around a 4-5 hour drive south.",
+    "fromCenter": "From Geneva City Center",
+    "fromCenterDesc": "Take Tram 15 and get off at the 'Nations' stop. It is about a 1-minute walk from there.",
+    "fromStation": "From Geneva Cornavin Train Station",
+    "fromStationDesc": "Take Tram 15 (direction: Nations) from outside the station and get off at the terminus 'Nations'. The journey takes about 10-15 minutes.",
+    "fromAirport": "From Geneva International Airport (GVA)",
+    "fromAirportDesc": "Take Bus 5 or 28 and get off at the 'Nations' stop. The ride takes around 15-20 minutes.",
     "publicTransport": "Public Transport",
-    "publicTransportDesc": "You can take the public bus traveling between Saranda and Gjirokastër. Ask the driver to drop you off at Broken Chair (断椅). The ticket is around 300 Lek, and the ride takes about 45 minutes. After getting off, you will need to walk about 2 km along a scenic road to reach the ticket office and spring.",
+    "publicTransportDesc": "Geneva's public transport (TPG) is highly convenient. Tourists staying in Geneva hotels receive a free 'Geneva Transport Card' for unlimited rides on local transport. You can reach Place des Nations via Tram 15, or Buses 5, 8, 11, 22, and 28.",
     "walking": "Walking",
-    "walkingDesc": "From the main road turnoff or parking area, you will need to walk 1.5 to 2 km along a paved or dirt path surrounded by nature to reach the spring. Comfortable walking shoes are highly recommended.",
+    "walkingDesc": "If you are around the Right Bank of Lake Geneva or the International District, walking is a great option. The Broken Chair is prominently visible at the Place des Nations.",
     "driving": "Driving",
-    "drivingDesc": "The most convenient way to reach the reserve. There is a parking area near the entrance. The road conditions are good, but it can get quite crowded during the summer peak season, so arriving early is recommended. Renting a scooter from Saranda is also a very popular option."
+    "drivingDesc": "There is an underground parking facility nearby (Parking des Nations). Since it is located in the international organization district, street parking can be limited, so public transport is highly recommended."
   },
   "route": {
     "title": "Recommended Route",
