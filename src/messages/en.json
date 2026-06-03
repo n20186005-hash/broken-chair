@@ -21,23 +21,23 @@
   },
   "intro": {
     "title": "Discover Broken Chair",
-    "description": "Broken Chair (断椅) is a stunning water spring and natural phenomenon occurring near Muzinë in Vlorë County, Albania. A popular tourist attraction, the clear blue water of the river bubbles forth from a stunning, more than fifty-metre-deep pool. Divers have descended to fifty metres, but it is still unclear what the actual depth of the karst hole is.",
+    "description": "The Broken Chair is a monumental wooden sculpture located across the street from the Palace of Nations (United Nations European Headquarters) in Geneva, Switzerland. Designed by the Swiss artist Daniel Berset and constructed by carpenter Louis Genève, the 12-metre-high, 5.5-ton sculpture features a broken leg, symbolizing opposition to land mines and cluster bombs.",
     "visitGuide": {
       "title": "Visit Tips",
       "items": [
-        "The water is extremely cold, usually around 10°C (50°F).",
-        "Swimming is officially prohibited to protect the natural environment.",
-        "There are cafes and restaurants nearby for refreshments.",
-        "The area is surrounded by lush green forests, perfect for a short hike."
+        "The sculpture is located in a public square and is free to visit 24/7.",
+        "It's a perfect spot for photography, with the spectacular Palace of Nations fountains in the background.",
+        "The square is frequently used for peaceful assemblies and demonstrations.",
+        "Recommended to combine with a tour of the Palace of Nations (booking required) and the International District."
       ]
     },
     "alsoKnownAs": {
       "title": "Highlights",
       "items": [
-        "Crystal clear blue water",
-        "Deep karst spring",
-        "Surrounding oak and sycamore trees",
-        "Breathtaking natural beauty"
+        "Symbol against landmines and cluster bombs",
+        "Landmark of Geneva's International District",
+        "12-metre-high monumental wooden sculpture",
+        "Located right next to the UN European Headquarters"
       ]
     }
   },
@@ -45,14 +45,14 @@
     "title": "About Broken Chair",
     "sections": [
       {
-        "id": "geography",
-        "title": "Location & Geography",
-        "content": "Located in southern Albania, Broken Chair is the initial water source of the Bistricë river, which ends in the Ionian Sea south of Saranda. The spring is situated in a dense forest of oaks and sycamores."
+        "id": "history",
+        "title": "History & Origins",
+        "content": "The Broken Chair was originally commissioned by Handicap International in 1997 to urge all nations to sign the Ottawa Treaty banning landmines. It was initially planned to remain in front of the Palace of Nations for only three months, but due to its profound impact and strong public support, it was kept permanently."
       },
       {
-        "id": "phenomenon",
-        "title": "Natural Phenomenon",
-        "content": "The spring owes its name to its striking appearance: the deep center is a dark blue, like the pupil of an eye, while the surrounding shallower water is a lighter shade of blue, like the iris."
+        "id": "symbolism",
+        "title": "Symbolism",
+        "content": "The massive chair, made of 5.5 tons of wood, features a broken leg that represents the devastating injuries caused by landmines and cluster munitions. At the same time, its three solid legs and towering backrest symbolize the resilience and dignity of the victims, as well as humanity's hope for peace."
       }
     ]
   },
@@ -60,12 +60,12 @@
     "title": "Frequently Asked Questions",
     "items": [
       {
-        "question": "Can you swim in Broken Chair?",
-        "answer": "Swimming is officially prohibited to preserve the natural ecosystem, though some visitors still jump in. The water is also extremely cold (10°C)."
+        "question": "Do I need a ticket to see the Broken Chair?",
+        "answer": "No. The Broken Chair is located on a public square (Place des Nations) in Geneva and is free to visit 24/7."
       },
       {
-        "question": "Is there an entrance fee?",
-        "answer": "Yes, there is a small entrance fee to access the nature reserve, and a parking fee if you bring a vehicle."
+        "question": "Can I visit at night?",
+        "answer": "Yes, the square is illuminated at night and offers a more peaceful atmosphere. However, daytime provides better lighting for photography."
       }
     ]
   },
@@ -91,22 +91,22 @@
   "hours": {
     "title": "Visiting Hours",
     "park": "Reserve Access",
-    "parkTime": "Usually open from 7:00 AM to 7:00 PM (Summer hours may vary)",
+    "parkTime": "Open 24 hours a day",
     "bestTime": "Best Time to Visit",
-    "bestTimeSpring": "Spring: Lush greenery and fewer crowds",
-    "bestTimeSummer": "Summer: Great for cooling down, but very crowded",
-    "bestTimeAutumn": "Autumn: Beautiful foliage and pleasant weather",
-    "bestTimeWinter": "Winter: Quiet, but many facilities may be closed",
-    "tip": "Visit early in the morning to avoid large crowds and enjoy the peaceful atmosphere."
+    "bestTimeSpring": "Spring: Pleasant weather, perfect for walking along Lake Geneva",
+    "bestTimeSummer": "Summer: Sunny days, fountains are on, excellent for photography",
+    "bestTimeAutumn": "Autumn: Beautiful autumn scenery in Geneva",
+    "bestTimeWinter": "Winter: Can be combined with visits to nearby museums",
+    "tip": "When the fountains are on, they make a perfect photographic composition with the UN building and the Broken Chair."
   },
   "tickets": {
     "title": "Admission Information",
     "park": "Entrance Fee",
-    "parkPrice": "Approx. 50 Lek per person",
+    "parkPrice": "Free admission",
     "parking": "Parking",
-    "parkingPrice": "Approx. 200 Lek per vehicle",
+    "parkingPrice": "Hourly rates apply at the nearby underground parking (Parking des Nations)",
     "guided": "Guided Tours",
-    "guidedPrice": "It is recommended to book day tours in advance through local travel agencies in Saranda or Gjirokastër"
+    "guidedPrice": "Guided tours of the UN Palace of Nations require advance booking on their official website"
   },
   "transport": {
     "title": "How to Get Here",
@@ -125,36 +125,37 @@
   },
   "route": {
     "title": "Recommended Route",
-    "overview": "Explore the natural beauty of the spring.",
+    "overview": "Explore Geneva's International District",
     "steps": [
-      "Arrive at the parking area",
-      "Walk along the scenic path",
-      "Admire the Blue Eye spring",
-      "Relax at the nearby cafes",
-      "Take a short hike in the surrounding forest"
+      "Arrive at Place des Nations",
+      "Admire and photograph the Broken Chair sculpture",
+      "Watch the fountain display on the square",
+      "Visit the UN European Headquarters (booking required)",
+      "Walk to the nearby International Red Cross and Red Crescent Museum"
     ]
   },
   "gallery": {
     "title": "Photo Gallery",
     "subtitle": "The Beauty of Broken Chair",
     "captions": [
-      "Broken Chair",
-      "Crystal clear water",
-      "Lush forest",
-      "Nature reserve",
-      "Spring details",
-      "Surrounding nature",
-      "River Bistricë",
-      "Viewing platform",
-      "Scenic views",
-      "Water shades",
-      "Trees and water",
-      "Deep blue center",
-      "Beautiful landscape",
-      "Natural wonder",
-      "Clear spring",
-      "Forest path",
-      "Tranquil environment"
+      "Broken Chair Panorama",
+      "Place des Nations",
+      "The Broken Leg",
+      "Looking Up",
+      "Fountains and Sculpture",
+      "Geneva International District",
+      "Massive Wooden Structure",
+      "Symbol of Peace",
+      "Broken Chair in Sunny Day",
+      "Close-up Details",
+      "The Monument",
+      "Surrounding Architecture",
+      "Scale of the Sculpture",
+      "Square View",
+      "Art and Reflection",
+      "Geneva Landmark",
+      "Public Art Space",
+      "Sculpture at Night"
     ],
     "viewAll": "View on Google Maps",
     "showAll": "View All Photos",
@@ -169,49 +170,49 @@
         "name": "Sarah J.",
         "rating": 5,
         "date": "2026-05-10",
-        "text": "Absolutely stunning natural beauty. The colors of the water are unbelievable!"
+        "text": "A very powerful sculpture! Learning about its anti-landmine message makes it even more meaningful."
       },
       {
         "name": "Mark T.",
-        "rating": 4,
+        "rating": 5,
         "date": "2026-04-22",
-        "text": "Very beautiful, but gets quite crowded in the afternoon. Come early!"
+        "text": "A must-see landmark in Geneva. It's right in front of the UN, and the fountains in the square are beautiful too."
       },
       {
         "name": "Elena R.",
         "rating": 5,
         "date": "2026-03-15",
-        "text": "A magical place. The cold water is refreshing, and the surrounding forest is peaceful."
+        "text": "Massive and spectacular. Standing underneath it gives you a strong visual impact."
       },
       {
         "name": "David L.",
         "rating": 4,
         "date": "2026-02-05",
-        "text": "Great spot for photography. The walk from the parking lot is very pleasant."
+        "text": "A very educational piece of public art. Very easy to get to, the tram stops right there."
       },
       {
         "name": "Paula W.",
         "rating": 5,
         "date": "2025-10-12",
-        "text": "Broken Chair was stunning. Definitely go to see it if you have the chance."
+        "text": "A symbol of peace and dignity. You must come and see it when in Geneva."
       },
       {
         "name": "Sarai M.",
         "rating": 5,
         "date": "2025-09-05",
-        "text": "Incredible experience!! The place is amazing 😍. 100% recommended."
+        "text": "Incredible wooden structure, and the message it conveys is very powerful. 100% recommended."
       },
       {
         "name": "Kathy B.",
         "rating": 5,
         "date": "2025-08-20",
-        "text": "Beautiful monument!! This is a must see!!"
+        "text": "Beautiful monument!! You'll definitely pass by it before taking the UN tour."
       },
       {
         "name": "Thomas G.",
         "rating": 4,
         "date": "2025-07-15",
-        "text": "The location is stunning! Surrounded by nature and the river fed by the crystal-clear waters of the Blue Eye spring."
+        "text": "Not just a photo spot, but an appeal for world peace. The atmosphere around it is great."
       }
     ]
   },
@@ -239,7 +240,7 @@
   },
   "officialManagement": {
     "title": "About Broken Chair",
-    "text": "Broken Chair is a protected nature reserve in Albania, celebrated for its unique geological features and stunning beauty. The reserve is officially managed by the National Agency of Protected Areas (AKZM) and the Ministry of Tourism and Environment, dedicated to preserving the fragile karst hydrological ecosystem."
+    "text": "The Broken Chair was commissioned and is owned by Handicap International (now Humanity & Inclusion). The organization is an international NGO dedicated to supporting people with disabilities and vulnerable populations, with a particular focus on victims of landmines and cluster munitions. The sculpture's presence serves as a constant reminder to the international community of their commitments to the Ottawa Treaty and the Oslo Convention on Cluster Munitions."
   },
   "privacy": {
     "title": "Privacy Policy",
