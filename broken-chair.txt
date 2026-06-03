@@ -1,9 +1,39 @@
 broken-chair
 
+brokenchairgeneva.com
+
+
+Broken Chair
+4.5(9,193)
+旅游胜地
+1202 Geneva, 瑞士
+64FQ+4G 日内瓦瑞士
+https://maps.app.goo.gl/ox5EXQDdKs4Yc7Nb7
 给这个单景点买域名.com推荐
 
 
+表单填写内容
+国家 / 地区：瑞士（Switzerland）
+地址：Broken Chair
+地址 2：（空着不填）
+城市：日内瓦（Geneva）
+省 / 自治区 / 直辖市：日内瓦州（Genève）
+邮政编码：1202
+
+
+
+页面太单薄了需要丰富页面
+参考这个网站 在第一屏和第二屏之间加一个探索板块
+https://www.theblueeyealbania.com/zh
+
+1、页面不要出现中文和英文混淆 中文就是中文页面 英文就是英文 修正
+2、页面太单薄了需要丰富页面
+3、参考这个网站 在第一屏和第二屏之间加一个探索板块
+https://www.theblueeyealbania.com/zh
+
 1、页面信息有误修正
+
+
 
 你正在用（Next.js开发）
 为一个新景点【 Broken Chair 】构建静态/Next.js 单页指南网站。
@@ -15,6 +45,9 @@ Broken Chair
 1202 Geneva, 瑞士
 64FQ+4G 日内瓦瑞士
 https://maps.app.goo.gl/ox5EXQDdKs4Yc7Nb7
+页面信息错误 按我提供的信息修正
+
+
 
 2、相片名称有误
 
@@ -29,7 +62,7 @@ https://maps.app.goo.gl/ox5EXQDdKs4Yc7Nb7
 
 
 我们网站是
-
+brokenchairgeneva.com
 检查一遍看下是否有错误
 
 丰富下页面内容现在的内容还是太薄的了
