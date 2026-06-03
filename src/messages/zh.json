@@ -1,6 +1,6 @@
 {
   "meta": {
-    "title": "断椅 (Broken Chair) – 日内瓦, 瑞士",
+    "title": "断椅 – 日内瓦, 瑞士",
     "description": "日内瓦断椅完整旅游指南。"
   },
   "header": {
@@ -11,17 +11,17 @@
     "backToHome": "返回首页"
   },
   "hero": {
-    "title": "Broken Chair",
-    "subtitle": "断椅",
+    "title": "断椅",
+    "subtitle": "日内瓦地标建筑",
     "rating": "4.5",
     "reviewCount": "9,193 条评价",
     "type": "旅游胜地",
-    "openMaps": "在Google地图上查看位置",
+    "openMaps": "在谷歌地图上查看位置",
     "mapsLink": "https://maps.app.goo.gl/ox5EXQDdKs4Yc7Nb7"
   },
   "intro": {
-    "title": "探索 Broken Chair",
-    "description": "断椅 (Broken Chair) 是一座位于瑞士日内瓦万国宫（联合国欧洲总部）广场上的巨大木制雕塑。它由瑞士艺术家丹尼尔·伯塞特（Daniel Berset）设计，由木匠路易·日内瓦（Louis Genève）制作。雕塑高12米，重5.5吨，其特点是有一条断掉的腿，象征着对地雷和集束炸弹受害者的纪念和支持。",
+    "title": "探索断椅",
+    "description": "断椅是一座位于瑞士日内瓦万国宫（联合国欧洲总部）广场上的巨大木制雕塑。它由瑞士艺术家丹尼尔·伯塞特设计，由木匠路易·日内瓦制作。雕塑高12米，重5.5吨，其特点是有一条断掉的腿，象征着对地雷和集束炸弹受害者的纪念和支持。",
     "visitGuide": {
       "title": "游览建议",
       "items": [
@@ -42,12 +42,12 @@
     }
   },
   "knowledge": {
-    "title": "关于 Broken Chair",
+    "title": "关于断椅",
     "sections": [
       {
         "id": "history",
         "title": "历史与起源",
-        "content": "断椅最初是由国际助残组织（Handicap International）于1997年委托制作的，目的是为了呼吁所有国家签署《渥太华禁雷公约》。它原本计划只在万国宫前放置三个月，但由于其产生的巨大影响力和公众的强烈支持，最终被永久保留了下来。"
+        "content": "断椅最初是由国际助残组织于1997年委托制作的，目的是为了呼吁所有国家签署《渥太华禁雷公约》。它原本计划只在万国宫前放置三个月，但由于其产生的巨大影响力和公众的强烈支持，最终被永久保留了下来。"
       },
       {
         "id": "symbolism",
@@ -72,21 +72,21 @@
   "basicInfo": {
     "title": "基础信息",
     "officialName": "正式名称",
-    "officialNameValue": "Broken Chair",
+    "officialNameValue": "断椅",
     "type": "景点类型",
     "typeValue": "旅游胜地",
     "country": "国家",
-    "countryValue": "瑞士 (Switzerland)",
+    "countryValue": "瑞士",
     "city": "城市",
-    "cityValue": "日内瓦 (Geneva)",
-    "googleRating": "谷歌评分",
+    "cityValue": "日内瓦",
+    "googleRating": "地图评分",
     "googleRatingValue": "4.5 (9,193)",
     "address": "地址",
-    "addressValue": "1202 Geneva, 瑞士",
+    "addressValue": "1202 日内瓦, 瑞士",
     "accessibility": "无障碍设施",
     "accessibilityValue": "部分可通行",
-    "plusCode": "Plus Code",
-    "plusCodeValue": "64FQ+4G 日内瓦瑞士"
+    "plusCode": "地理代码",
+    "plusCodeValue": "64FQ+4G 日内瓦, 瑞士"
   },
   "hours": {
     "title": "开放时间",
@@ -104,30 +104,30 @@
     "park": "门票价格",
     "parkPrice": "免费开放",
     "parking": "停车信息",
-    "parkingPrice": "周边地下停车场按小时收费（Parking des Nations）",
+    "parkingPrice": "周边地下停车场按小时收费（万国宫广场地下停车场）",
     "guided": "导游服务",
     "guidedPrice": "参观联合国万国宫内部需提前在官网预约购票"
   },
   "transport": {
     "title": "交通指南",
     "fromCenter": "从日内瓦市中心",
-    "fromCenterDesc": "乘坐15路有轨电车，在“Nations”站下车，步行约1分钟即可到达。",
-    "fromStation": "从日内瓦科尔纳万火车站 (Gare de Cornavin)",
-    "fromStationDesc": "在火车站外乘坐15路有轨电车（方向：Nations），在终点站“Nations”下车，全程约10-15分钟。",
-    "fromAirport": "从日内瓦国际机场 (GVA)",
-    "fromAirportDesc": "乘坐5路或28路公交车，在“Nations”站下车，车程约15-20分钟。",
+    "fromCenterDesc": "乘坐15路有轨电车，在“万国宫广场”站下车，步行约1分钟即可到达。",
+    "fromStation": "从日内瓦科尔纳万火车站",
+    "fromStationDesc": "在火车站外乘坐15路有轨电车（方向：万国宫广场），在终点站“万国宫广场”下车，全程约10-15分钟。",
+    "fromAirport": "从日内瓦国际机场",
+    "fromAirportDesc": "乘坐5路或28路公交车，在“万国宫广场”站下车，车程约15-20分钟。",
     "publicTransport": "公共交通",
-    "publicTransportDesc": "日内瓦公共交通（TPG）非常便利，所有入住日内瓦酒店的游客均可免费获得一张“日内瓦交通卡”(Geneva Transport Card)，凭此卡可免费无限次乘坐市内的公共交通工具。到达万国宫广场（Place des Nations）的交通工具包括：15路有轨电车，以及5、8、11、22、28路公交车。",
+    "publicTransportDesc": "日内瓦公共交通非常便利，所有入住日内瓦酒店的游客均可免费获得一张“日内瓦交通卡”，凭此卡可免费无限次乘坐市内的公共交通工具。到达万国宫广场的交通工具包括：15路有轨电车，以及5、8、11、22、28路公交车。",
     "walking": "步行",
     "walkingDesc": "如果您在日内瓦湖右岸或国际区附近，步行前往是一个不错的选择。从万国宫的主入口广场即可直接看到断椅。",
     "driving": "自驾",
-    "drivingDesc": "景点附近设有地下停车场（Parking des Nations）。由于周边是国际组织集中区，路面停车位可能比较紧张，建议优先使用公共交通。"
+    "drivingDesc": "景点附近设有地下停车场（万国宫广场地下停车场）。由于周边是国际组织集中区，路面停车位可能比较紧张，建议优先使用公共交通。"
   },
   "route": {
     "title": "推荐游览路线",
     "overview": "探索日内瓦国际区",
     "steps": [
-      "抵达万国宫广场 (Place des Nations)",
+      "抵达万国宫广场",
       "欣赏并拍摄断椅雕塑",
       "观看广场上的喷泉阵列",
       "参观联合国欧洲总部 (需提前预约)",
@@ -136,7 +136,7 @@
   },
   "gallery": {
     "title": "照片画廊",
-    "subtitle": "Broken Chair 之美",
+    "subtitle": "断椅之美",
     "captions": [
       "断椅全景",
       "万国宫广场",
@@ -157,14 +157,14 @@
       "公共艺术空间",
       "夜晚的雕塑"
     ],
-    "viewAll": "在Google地图上查看位置",
+    "viewAll": "在谷歌地图上查看位置",
     "showAll": "显示完整照片",
     "showLess": "收起照片"
   },
   "reviews": {
     "title": "游客评价",
-    "declaration": "评价信息可通过Google地图查看。",
-    "moreReviews": "在Google地图上查看位置",
+    "declaration": "评价信息可通过谷歌地图查看。",
+    "moreReviews": "在谷歌地图上查看位置",
     "items": [
       {
         "name": "Sarah J.",
@@ -218,12 +218,12 @@
   },
   "mapSection": {
     "title": "地图位置",
-    "subtitle": "1202 Geneva, 瑞士 (64FQ+4G 日内瓦瑞士)",
-    "openMaps": "在Google地图上查看位置"
+    "subtitle": "1202 日内瓦, 瑞士 (64FQ+4G 日内瓦, 瑞士)",
+    "openMaps": "在谷歌地图上查看位置"
   },
   "footer": {
-    "brandName": "Broken Chair",
-    "brandSubtitle": "断椅",
+    "brandName": "断椅",
+    "brandSubtitle": "日内瓦地标建筑",
     "rights": "© 2026 独立旅游研究项目 · 保留所有权利。",
     "privacy": "隐私政策",
     "terms": "服务条款",
@@ -233,14 +233,14 @@
       "myswitzerland": "瑞士国家旅游局",
       "geneve": "日内瓦州旅游局",
       "geneve_ch": "日内瓦市政府官方政务系统",
-      "hi": "国际助残组织 (Handicap International)",
-      "visa": "瑞士在线签证系统 (Swiss-Visa)"
+      "hi": "国际助残组织",
+      "visa": "瑞士在线签证系统"
     },
     "disclaimer": "本网站是一个独立的第三方旅游资讯项目。我们与当地政府或其他官方机构没有任何关联。"
   },
   "officialManagement": {
-    "title": "关于 Broken Chair",
-    "text": "断椅由国际助残组织（Handicap International，现称为 Humanity & Inclusion）委托制作并拥有。该组织是一个致力于为残疾人和弱势群体提供支持的国际非政府组织，特别关注地雷和集束弹药受害者。雕塑的存在持续提醒着国际社会对《渥太华禁雷公约》和《奥斯陆集束弹药公约》的承诺。"
+    "title": "关于断椅",
+    "text": "断椅由国际助残组织（现称为“人类与包容”组织）委托制作并拥有。该组织是一个致力于为残疾人和弱势群体提供支持的国际非政府组织，特别关注地雷和集束弹药受害者。雕塑的存在持续提醒着国际社会对《渥太华禁雷公约》和《奥斯陆集束弹药公约》的承诺。"
   },
   "privacy": {
     "title": "隐私政策",

@@ -12,6 +12,8 @@ import Reviews from '@/components/Reviews';
 import MapEmbed from '@/components/MapEmbed';
 import FAQSection from '@/components/FAQSection';
 import Footer from '@/components/Footer';
+import InfoSection from '@/components/InfoSection';
+import RouteSection from '@/components/RouteSection';
 
 export async function generateMetadata({
   params,
@@ -45,6 +47,9 @@ export default async function HomePage({
       <Header />
       <main>
         <Hero />
+        <Intro />
+        <InfoSection />
+        <RouteSection />
         <BasicInfo />
         <HoursSection />
         <TicketsSection />
